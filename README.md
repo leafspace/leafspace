@@ -8,9 +8,8 @@
 - 🤔 我正在准备阿里云OSS客户端同步服务的开源项目开发
 - 💬 你可以询问我关于语音信号处理方面的问题
 - 📫 你可以通过电子邮箱或者微信联系我 wechat （leafspace_zhang）
-- 😄 Pronouns: ？
-- ⚡ Fun fact: ？
-- 
+- 😄 ？
+- ⚡ ？
 <!--
 **leafspace/leafspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
