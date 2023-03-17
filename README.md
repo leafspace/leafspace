@@ -3,9 +3,9 @@
 我就试试，原来还有这功能
 
 - 🔭 我正在维护私有工程 RuBaoMap（WeChat Miniprogram）
-- 🌱 我正在从事Go后端开发的工作
+- 🌱 我正在从事全栈开发/项目经理的工作
 - 👯 I’m looking to collaborate on None
-- 🤔 我正在准备阿里云OSS客户端同步服务的开源项目开发
+- 🤔 最近没啥项目开源的
 - 💬 你可以询问我关于语音信号处理方面的问题
 - 📫 你可以通过电子邮箱或者微信联系我 wechat （leafspace_zhang）
 - 😄 ？
