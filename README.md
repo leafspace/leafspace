@@ -8,8 +8,7 @@
 - 🤔 最近没啥项目开源的
 - 💬 你可以询问我关于语音信号处理方面的问题
 - 📫 你可以通过电子邮箱或者微信联系我 wechat （leafspace_zhang）
-- 😄 ？
-- ⚡ ？
+
 <!--
 **leafspace/leafspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
