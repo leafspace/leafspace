@@ -1,0 +1,127 @@
+{
+  "name": "leafspace",
+  "display_name": "leafspace",
+  "language": "zh",
+  "classification": {
+    "language": "zh",
+    "tags": [
+      "追求极致/完美主义",
+      "第一性原理",
+      "数据驱动",
+      "创业公司派",
+      "INTJ",
+      "全栈开发",
+      "项目经理",
+      "Agent工程师"
+    ],
+    "gallery_category": "tech"
+  },
+  "source_context": {
+    "domain": "tech",
+    "relationship_to_user": "self",
+    "is_real_person": true,
+    "is_public_figure": false,
+    "is_fictional": false
+  },
+  "summary": "leafspace — INTJ双鱼座，离职转型中的全栈开发+项目经理，追求自主与极致，正在用Agent重塑智慧农业。",
+  "knowledge_sources": [
+    "豆包聊天记录 (2026-01-14 ~ 2026-06-22, 1370条消息)",
+    "Git提交记录 (RuBaoFarm等7个仓库)"
+  ],
+  "generation": {
+    "corrections_count": 0,
+    "engine": "dot-skill",
+    "character": "colleague",
+    "research_profile": "standard",
+    "preset": "dot.colleague.v1",
+    "prompt_bundle": {
+      "preset": "dot.colleague.v1",
+      "intake": "prompts/intake.md",
+      "work_analyzer": "prompts/work_analyzer.md",
+      "persona_analyzer": "prompts/persona_analyzer.md",
+      "work_builder": "prompts/work_builder.md",
+      "persona_builder": "prompts/persona_builder.md",
+      "merger": "prompts/merger.md",
+      "correction_handler": "prompts/correction_handler.md"
+    },
+    "research_profile_bundle": {},
+    "research_profile_references": [],
+    "merge_strategy": "compact",
+    "quality_profile": "budget-friendly",
+    "knowledge_dirs": [
+      "docs",
+      "messages",
+      "emails"
+    ],
+    "storage_root": "skills/colleague",
+    "created_from": [
+      "豆包聊天记录 (2026-01-14 ~ 2026-06-22, 1370条消息)",
+      "Git提交记录 (RuBaoFarm等7个仓库)"
+    ]
+  },
+  "lifecycle": {
+    "status": "active",
+    "created_at": "2026-06-22T03:28:56.436985+00:00",
+    "updated_at": "2026-06-22T07:50:19.047958+00:00",
+    "version": "v2"
+  },
+  "character": "colleague",
+  "research_profile": "standard",
+  "type": "colleague",
+  "engine": {
+    "name": "dot-skill",
+    "kind": "meta-skill",
+    "character": "colleague",
+    "research_profile": "standard",
+    "preset": "dot.colleague.v1",
+    "prompt_bundle": {
+      "preset": "dot.colleague.v1",
+      "intake": "prompts/intake.md",
+      "work_analyzer": "prompts/work_analyzer.md",
+      "persona_analyzer": "prompts/persona_analyzer.md",
+      "work_builder": "prompts/work_builder.md",
+      "persona_builder": "prompts/persona_builder.md",
+      "merger": "prompts/merger.md",
+      "correction_handler": "prompts/correction_handler.md"
+    },
+    "research_profile_bundle": {},
+    "research_profile_references": [],
+    "merge_strategy": "compact",
+    "quality_profile": "budget-friendly",
+    "knowledge_dirs": [
+      "docs",
+      "messages",
+      "emails"
+    ],
+    "storage_root": "skills/colleague"
+  },
+  "schema_version": "3",
+  "slug": "leafspace",
+  "kind": "meta-skill",
+  "subtype": null,
+  "preset": "dot.colleague.v1",
+  "id": "meta-skill.colleague.leafspace",
+  "artifacts": {
+    "combined_skill": "SKILL.md",
+    "work_skill": "work_skill.md",
+    "persona_skill": "persona_skill.md",
+    "work_doc": "work.md",
+    "persona_doc": "persona.md",
+    "manifest": "manifest.json",
+    "combined_name": "colleague_leafspace",
+    "work_name": "colleague_leafspace_work",
+    "persona_name": "colleague_leafspace_persona",
+    "combined_command": "colleague-leafspace",
+    "work_command": "colleague-leafspace-work",
+    "persona_command": "colleague-leafspace-persona"
+  },
+  "compat": {
+    "legacy_command": "/create-colleague",
+    "legacy_storage_root": "colleagues",
+    "legacy_type": "colleague"
+  },
+  "created_at": "2026-06-22T03:28:56.436985+00:00",
+  "updated_at": "2026-06-22T07:50:19.047958+00:00",
+  "version": "v2",
+  "corrections_count": 0
+}
