@@ -1,25 +1,14 @@
 ### Hi there 👋
 
-我就试试，原来还有这功能
+## 🧑‍💻 About Me \| 关于我
 
-- 🔭 我正在维护私有工程 RuBaoMap（WeChat Miniprogram）
-- 🌱 我正在从事全栈开发/项目经理的工作
-- 👯 I’m looking to collaborate on None
-- 🤔 最近没啥项目开源的
-- 💬 你可以询问我关于语音信号处理方面的问题
-- 📫 你可以通过电子邮箱或者微信联系我 wechat （leafspace_zhang）
+📍 一名深耕开发 / 热爱开源 / 持续学习的开发者
+🌱 终身学习者，专注代码打磨、项目落地、技术沉淀，乐于分享技术干货
+🎯 开发理念：简洁高效、可读性优先、轻量化开发
+💬 欢迎交流技术、共建开源项目，友好沟通✨
 
-<!--
-**leafspace/leafspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Current Work \& Goals \| 近期工作\&长期目标
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on HZ-KAIYUAN
-- 🌱 I’m currently learning Wechat Mini Program
-- 👯 I’m looking to collaborate on None
-- 🤔 I’m looking for help with Wechat Mini Program Map Cover view
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ 现阶段进行工作：深耕业务项目开发、优化存量项目性能、整理个人开源工具库、补齐底层技术基础知识
+🎯 短期目标：产出高质量开源小项目、沉淀技术笔记、规范代码工程化能力、提升项目架构思维
+🚀 长期目标：深耕专项技术领域、参与优质开源共建、输出系统化技术内容、做有价值的技术创作
